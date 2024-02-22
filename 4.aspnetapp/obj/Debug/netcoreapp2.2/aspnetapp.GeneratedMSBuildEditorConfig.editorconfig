@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = aspnetapp
+build_property.ProjectDir = E:\dockerlab2\docker-training-dockerfile\4.aspnetapp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
